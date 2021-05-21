@@ -2,7 +2,7 @@
 
 I lead the [Californian Cooperative Ecosystems Studies Unit (CESU)](http://www.cesu.psu.edu/unit_portals/CALI_portal.htm) for the [National Park Service](www.nps.gov) at [UC Berkeley](www.berkeley.edu). The CESU facilitates scientific collaborations between the federal government and the University of California, California State University, and many other research partners.
 
-I am also a visiting scholar at UC Berkeley working on marine ecology, data science, and biostatistics. I work on a wide variety of research projects (with a common theme of long-term monitoring) with many partners federal, state, and academic partners including: 
+I am also a Visiting Scholar at UC Berkeley working on marine ecology, data science, and biostatistics. I am involved in a wide variety of research projects (with a common theme of long-term monitoring) with many federal, state, and academic partners. Some recent and ongoing projects include: 
 - eelgrass restoration
 - pinniped population dynamics (harbor seals and elephant seals)
 - northern spotted owl occupancy
