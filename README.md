@@ -1,5 +1,3 @@
-## Welcome Ben Becker's GitHub Page
-
 I lead the [Californian Cooperative Ecosystems Studies Unit (CESU)](http://www.cesu.psu.edu/unit_portals/CALI_portal.htm) for the [National Park Service](http://www.nps.gov) at [UC Berkeley](http://www.berkeley.edu). The CESU:
 
 
