@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome Ben Becker's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/bbecker1000/bbecker1000.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I lead the Californian Cooperative Ecosystems Studies Unit (CESU) for the National Park Service at UC Berkeley. The CESU facilitates scientific collaborations between the federal government and the University of California, California State University, and many other research partners.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am also a visiting scholar at UC Berkeley working on marine ecology, data science, and biostatistics. I work on a wide variety of research projects (with a common theme of long-term monitoring) with many partners federal, state, and academic partners including: 
+- eelgrass restoration
+- pinniped population dynamics (harbor seals and elephant seals)
+- northern spotted owl occupancy
+- cattle and elk grazing impacts in a Mediterranean climate
+- dairy and beef operation impacts on water quality
+- invasive plant impacts on native soils
+- seabird ecology and conservation
+- california current oceanography
+- coho salmon occupancy modeling
+- rocky intertidal community ecology
 
-### Markdown
+## Please get in touch with me if you are:
+- A CESU University or Partner (Faculty, researcher, or student) interested in research partnerships and opportuntities with the National Park Service.
+- A student interested in data or field oriented natural resource internships.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+email: bbecker@berkeley.edu
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bbecker1000/bbecker1000.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+office: 133 Mulford Hall, UC Berkeley, Berkeley, CA 94720
