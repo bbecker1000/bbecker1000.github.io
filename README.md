@@ -5,10 +5,10 @@ I lead the [Californian Cooperative Ecosystems Studies Unit (CESU)](http://www.c
 
 - Provides technical expertise in ecology and biostatistics.
 
-I am also a Visiting Scholar at UC Berkeley working on marine ecology, data science, and biostatistics. I am involved in a wide variety of research projects (with a common theme of long-term monitoring) with many federal, state, and academic partners. Some recent and ongoing projects include: 
-- eelgrass restoration
-- pinniped population dynamics (harbor seals and elephant seals)
-- northern spotted owl occupancy
+I am also a Visiting Scholar at UC Berkeley working on marine ecology, data science, and biostatistics and am involved in a wide variety of collaborative research projects (with a common theme of long-term monitoring). Some recent and ongoing projects include: 
+- eelgrass restoration in Drakes Estero
+- pinniped population dynamics (harbor seals and elephant seals) in Central California
+- northern spotted owl occupancy in Marin County
 - cattle and elk grazing impacts in a Mediterranean climate
 - dairy and beef operation impacts on water quality
 - invasive plant impacts on native soils
