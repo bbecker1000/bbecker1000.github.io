@@ -1,3 +1,6 @@
+![image](/assets/images/Drakes.jpg)
+
+
 ### The [Californian Cooperative Ecosystems Studies Unit (CESU)](http://www.cesu.psu.edu/unit_portals/CALI_portal.htm) [National Park Service](http://www.nps.gov) at [UC Berkeley](http://www.berkeley.edu):
 
 
