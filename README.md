@@ -14,10 +14,12 @@ I am also a Visiting Scholar at UC Berkeley working on marine ecology, data scie
 - coho salmon occupancy modeling
 - rocky intertidal community ecology
 
-### Please get in touch with me if you are:
+### Please contact us if you are:
 - A CESU University or Partner (Faculty, researcher, or student) interested in research partnerships and opportuntities with the National Park Service.
 
 - A student interested in data or field oriented natural resource internships.
+
+- A National Park Service employee interested in scientific or technical support.
 
 
 **email:** bbecker@berkeley.edu
