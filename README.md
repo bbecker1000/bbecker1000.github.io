@@ -2,7 +2,7 @@
 
 Welcome to the CA-CESU Website. We work with research and educational institutions to provide scientific and technical expertise to Federal Agencies, including the [National Park Service](https://www.nps.gov). We also train the next generation of scientists in managing public lands.
 
-I am also a Visiting Scholar at UC Berkeley working on marine ecology, data science, and biostatistics and am involved in a wide variety of collaborative research projects (with a common theme of long-term monitoring). Some recent and ongoing projects include: 
+In addition to implementing partnerships, I am also a Visiting Scholar at UC Berkeley working on marine ecology, data science, and biostatistics and am involved in a wide variety of collaborative research projects (with a common theme of long-term monitoring). Some recent and ongoing projects include: 
 - eelgrass restoration in Drakes Estero
 - pinniped population dynamics (harbor seals and elephant seals) in Central California
 - northern spotted owl occupancy in Marin County
