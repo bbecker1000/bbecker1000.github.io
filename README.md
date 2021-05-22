@@ -1,14 +1,9 @@
 ![image](/assets/images/Drakes.jpg)
 
 
-### [Californian Cooperative Ecosystems Studies Unit (CESU)](http://www.cesu.psu.edu/unit_portals/CALI_portal.htm) 
+### [The Californian Cooperative Ecosystems Studies Unit (CESU)](http://www.cesu.psu.edu/unit_portals/CALI_portal.htm) at [UC Berkeley](http://www.berkeley.edu):
 
-### at [UC Berkeley](http://www.berkeley.edu):
-
-
-- Facilitates scientific collaborations between the federal government and the University of California, California State University, and many other research partners.
-
-- Provides technical expertise in ecology and biostatistics.
+Welcome to the CA-CESU Website. We implement scientific collaborations, provide technical expertise, and training from the CESU partners University of California, California State University, and many other CESU research partners to Federal Agencies, including the [National Park Service](https://www.nps.gov).
 
 I am also a Visiting Scholar at UC Berkeley working on marine ecology, data science, and biostatistics and am involved in a wide variety of collaborative research projects (with a common theme of long-term monitoring). Some recent and ongoing projects include: 
 - eelgrass restoration in Drakes Estero
