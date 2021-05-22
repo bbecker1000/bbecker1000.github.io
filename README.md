@@ -1,4 +1,4 @@
-![image](/assets/images/Drakes.jpg)
+<img src="/assets/images/Drakes.jpg" width ="600">
 
 Welcome to the CA-CESU Website. We work with research and educational institutions to provide scientific and technical expertise to Federal Agencies, including the [National Park Service](https://www.nps.gov). We also train the next generation of scientists in managing public lands.
 
