@@ -1,4 +1,4 @@
-### I lead the [Californian Cooperative Ecosystems Studies Unit (CESU)](http://www.cesu.psu.edu/unit_portals/CALI_portal.htm) for the [National Park Service](http://www.nps.gov) at [UC Berkeley](http://www.berkeley.edu). The CESU:
+### The [Californian Cooperative Ecosystems Studies Unit (CESU)](http://www.cesu.psu.edu/unit_portals/CALI_portal.htm) [National Park Service](http://www.nps.gov) at [UC Berkeley](http://www.berkeley.edu):
 
 
 - Facilitates scientific collaborations between the federal government and the University of California, California State University, and many other research partners.
